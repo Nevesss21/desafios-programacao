@@ -1,9 +1,9 @@
 # Resolução de Desafios Práticos
 
-* **Estudante:** [SEU NOME COMPLETO]
+* **Estudante:** João Eric Neves da Silva
 * **Plataforma Utilizada:** freeCodeCamp
 * **Tecnologia Praticada:** HTML e CSS
-* **Disciplina:** [NOME DA SUA MATÉRIA / TURMA]
+* **Disciplina:** Design Profissional
 
 ---
 
