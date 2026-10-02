@@ -3,7 +3,7 @@
 * **Estudante:** João Eric Neves da Silva
 * **Plataforma Utilizada:** freeCodeCamp
 * **Tecnologia Praticada:** HTML e CSS
-* **Disciplina:** Design Profissional
+* **Disciplina:** Design Profissional/2° semestre
 
 ---
 
